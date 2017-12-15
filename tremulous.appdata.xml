@@ -48,4 +48,7 @@
     <content_attribute id="money-purchasing">none</content_attribute>
     <content_attribute id="money-gambling">none</content_attribute>
   </content_rating>
+  <releases>
+    <release version="1.3.0-alpha.0.12" date="2017-10-19"/>
+  </releases>
 </application>
