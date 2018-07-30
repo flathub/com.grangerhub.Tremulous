@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2017 Daniel Rusek <mail@asciiwolf.com> -->
 <application>
-  <id type="desktop">tremulous.desktop</id>
+  <id type="desktop">com.grangerhub.Tremulous.desktop</id>
   <project_license>GPL-2.0</project_license>
   <metadata_license>CC-BY-SA-2.5</metadata_license>
   <name>Tremulous</name>

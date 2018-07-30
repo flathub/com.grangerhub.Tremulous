@@ -13,9 +13,6 @@
         "--persist=.tremulous"
     ],
     "command": "tremulous",
-    "rename-appdata-file": "tremulous.appdata.xml",
-    "rename-desktop-file": "tremulous.desktop",
-    "rename-icon": "tremulous",
     "cleanup": [
         "/include",
         "/lib/pkgconfig",
@@ -69,15 +66,15 @@
                 },
                 {
                     "type": "file",
-                    "path": "tremulous.png"
+                    "path": "com.grangerhub.Tremulous.png"
                 },
                 {
                     "type": "file",
-                    "path": "tremulous.appdata.xml"
+                    "path": "com.grangerhub.Tremulous.appdata.xml"
                 },
                 {
                     "type": "file",
-                    "path": "tremulous.desktop"
+                    "path": "com.grangerhub.Tremulous.desktop"
                 }
             ],
             "post-install": [
@@ -88,11 +85,11 @@
                 "mkdir -p /app/share/tremulous/gpp_11",
                 "cp -r build/release/gpp_11/vm /app/share/tremulous/gpp_11",
                 "mkdir -p /app/share/appdata",
-                "cp tremulous.appdata.xml /app/share/appdata",
+                "cp com.grangerhub.Tremulous.appdata.xml /app/share/appdata",
                 "mkdir -p /app/share/applications",
-                "cp tremulous.desktop /app/share/applications",
+                "cp com.grangerhub.Tremulous.desktop /app/share/applications",
                 "mkdir -p /app/share/icons/hicolor/48x48/apps",
-                "cp tremulous.png /app/share/icons/hicolor/48x48/apps"
+                "cp com.grangerhub.Tremulous.png /app/share/icons/hicolor/48x48/apps"
             ]
         }
     ]
