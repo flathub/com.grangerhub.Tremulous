@@ -5,4 +5,4 @@ Icon=com.grangerhub.Tremulous
 Exec=tremulous
 Terminal=false
 Type=Application
-Categories=Game;ActionGame;
+Categories=Game;ActionGame;StrategyGame;Shooter;
