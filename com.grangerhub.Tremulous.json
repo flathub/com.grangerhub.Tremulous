@@ -79,11 +79,13 @@
             ],
             "post-install": [
                 "install -Dm755 build/release/tremulous /app/bin/tremulous",
+                "install -Dm755 build/release/granger /app/bin/granger",
                 "cp build/release/gpp/*.so /app/share/tremulous/gpp",
                 "cp build/release/renderer_opengl*.so /app/share/tremulous",
                 "cp -r build/release/gpp/vm /app/share/tremulous/gpp",
                 "mkdir -p /app/share/tremulous/gpp_11",
                 "cp -r build/release/gpp_11/vm /app/share/tremulous/gpp_11",
+                "cp -r scripts /app/share/tremulous/scripts",
                 "install -Dm644 com.grangerhub.Tremulous.appdata.xml /app/share/appdata/com.grangerhub.Tremulous.appdata.xml",
                 "install -Dm644 com.grangerhub.Tremulous.desktop /app/share/applications/com.grangerhub.Tremulous.desktop",
                 "install -Dm644 com.grangerhub.Tremulous.png /app/share/icons/hicolor/48x48/apps/com.grangerhub.Tremulous.png"
