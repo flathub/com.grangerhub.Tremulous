@@ -4,6 +4,9 @@
   <id type="desktop">com.grangerhub.Tremulous.desktop</id>
   <project_license>GPL-2.0</project_license>
   <metadata_license>CC-BY-SA-2.5</metadata_license>
+  <provides>
+    <id>tremulous.desktop</id>
+  </provides>
   <name>Tremulous</name>
   <summary>Aliens vs Humans, First Person Shooter game with elements of Real Time Strategy</summary>
   <description>
