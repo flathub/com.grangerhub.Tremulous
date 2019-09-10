@@ -20,7 +20,7 @@
       RTS.
     </p>
   </description>
-  <url type="homepage">http://www.grangerhub.com</url>
+  <url type="homepage">https://grangerhub.com</url>
   <screenshots>
     <screenshot type="default">https://raw.githubusercontent.com/hughsie/fedora-appstream/master/screenshots-extra/tremulous/a.png</screenshot>
     <screenshot>https://raw.githubusercontent.com/hughsie/fedora-appstream/master/screenshots-extra/tremulous/b.png</screenshot>
