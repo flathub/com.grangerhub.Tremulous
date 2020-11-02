@@ -1,7 +1,7 @@
 {
     "app-id": "com.grangerhub.Tremulous",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "19.08",
+    "runtime-version": "20.08",
     "sdk": "org.freedesktop.Sdk",
     "finish-args": [
         "--device=dri",
@@ -63,6 +63,10 @@
                 {
                     "type": "patch",
                     "path": "tremulous-makefile.patch"
+                },
+                {
+                    "type": "patch",
+                    "path": "tremulous-sol.patch"
                 },
                 {
                     "type": "file",
