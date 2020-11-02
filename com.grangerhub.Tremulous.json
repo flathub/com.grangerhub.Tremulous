@@ -65,6 +65,10 @@
                     "path": "tremulous-makefile.patch"
                 },
                 {
+                    "type": "patch",
+                    "path": "tremulous-sol.patch"
+                },
+                {
                     "type": "file",
                     "path": "com.grangerhub.Tremulous.png"
                 },
