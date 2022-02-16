@@ -6,3 +6,4 @@ Exec=tremulous
 Terminal=false
 Type=Application
 Categories=Game;ActionGame;StrategyGame;Shooter;
+PrefersNonDefaultGPU=true
