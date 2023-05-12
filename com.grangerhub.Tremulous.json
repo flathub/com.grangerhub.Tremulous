@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/GrangerHub/tremulous/releases/download/v1.3.0-alpha.0.14/release-linux-x86_64.zip",
-                    "sha256": "cc2c085c75b8ef8f77173bd918feec0628377e40ec87d49e851881df07fe6358",
+                    "url": "https://github.com/GrangerHub/tremulous/releases/download/v1.3.0-alpha.0.15/release-linux-x86_64.zip",
+                    "sha256": "66369ea4cfb9e4cad5618b7264c04025ce73e8af5f3a9785856cf3b610d1a54a",
                     "strip-components": 0
                 }
             ],
@@ -57,8 +57,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/GrangerHub/tremulous/archive/v1.3.0-alpha.0.14.tar.gz",
-                    "sha256": "0f9e705f58eea8cbba2c84a6eef42b92677201eb1fa41c1603f7b728c634e30a"
+                    "url": "https://github.com/GrangerHub/tremulous/archive/v1.3.0-alpha.0.15.tar.gz",
+                    "sha256": "87abb4d8ee46f3d4544d1fd2850d9279a0e2024b2a8cd783ad84f39c7485e70a"
                 },
                 {
                     "type": "patch",
