@@ -58,7 +58,7 @@
                 {
                     "type": "archive",
                     "url": "https://github.com/GrangerHub/tremulous/archive/v1.3.0-alpha.0.14.tar.gz",
-                    "sha256": "83c1a3f52cbb9458818355f6f4f1ca6da2d0fc0cd406e54b73e3d647be253f1a"
+                    "sha256": "0f9e705f58eea8cbba2c84a6eef42b92677201eb1fa41c1603f7b728c634e30a"
                 },
                 {
                     "type": "patch",
